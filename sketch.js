@@ -1,3 +1,4 @@
+//Definition globaler Variablen
 let w = window.innerWidth;
 let h = window.innerHeight;
 let posx = w/2;
@@ -8,6 +9,7 @@ let minx = 0;
 let maxy = 0;
 let miny = 0;
 
+//Definition allgemeiner Hilfsfunktionen
 function plus(p, q){
   return [p[0] + q[0], p[1] + q[1]];
 }
@@ -24,6 +26,7 @@ function rot(p, n){
   }
 }
 
+//Definition von Vektoren zum Speichern von Übergangspunkten
 let etaHv   = [];
 let phiHv   = [];
 let psiHv   = [];
@@ -39,6 +42,7 @@ let muFv    = [];
 let nuFv    = [];
 let thetaHv = [];
 
+//Funktionen zum Berechnen der Mittelpunkte und Übergangspunkte
 function etaH(r, s){
   if(typeof etaHv[s] === 'undefined'){
     let sigmaHh = sigmaH(1, s-1);
@@ -146,7 +150,7 @@ function phiF(r, s){
     }
     return phiFv[s];
   } else {
-    return phiP(r, s); 
+    return phiP(r, s);
   }
 }
 
@@ -200,6 +204,7 @@ function sigmaT(r, s){
   }
 }
 
+//Funktion zum Berechnen der Hilfspunkte zum Abschätzen der Ordnung
 function thetaH(r, s){
   if(typeof thetaHv[s] === 'undefined'){
     let etaHh = etaH(0, s);
@@ -209,6 +214,7 @@ function thetaH(r, s){
   return rot(thetaHv[s], 2*r);
 }
 
+//Funktion zum Zeichnen einer Hut-Kachel
 function zeichnestein(x, y, n){
   if(x < 0-2*a || y  > 2*b || x > w+2*a || y < -h-2*b){
     return;
@@ -225,6 +231,7 @@ function zeichnestein(x, y, n){
   endShape(CLOSE);
 }
 
+//Funktionen zum Zeichnen der Supertiles
 function zeichneH(p, r, s){
   if(s == 0){
     zeichnestein(p[0], p[1], (r + 5)%6);
@@ -288,14 +295,18 @@ function zeichneF(p, r, s){
 }
 
 function setup(){
+  //Zeichenfläche anlegen
   createCanvas(w, h);
+  //Definition des Parameters a (hier wird die größe der Kacheln festgelegt)
   a  = 30;
+  //Berechnen von Hilfsvariablen
   a2 = a/2;
   b  = sqrt(3) * a;
   b3 = b/3;
   b6 = b/6;
   b2 = b/2;
 
+  //Definition aller möglichen Eckpunkte von Hut-Kacheln
   pkt = [
     [ 0     ,  2 * b3], // 0
     [    -a ,      b3], // 1
@@ -340,7 +351,8 @@ function setup(){
     [    -a2, -7 * b6], //40
     [ 3 * a2, -5 * b6], //41
   ];
-  
+ 
+  //Definition der Abfolge der Eckpunkte für die einzelnen Hut-Kacheln
   abfolge = [
     [0, 19, 1 , 12, 2 , 30, 24, 3 , 7 , 4 , 23, 5 , 8 , 0], // 0
     [0, 11, 1 , 20, 2 , 13, 3 , 31, 25, 4 , 10, 5 , 18, 0], // 1
@@ -355,7 +367,8 @@ function setup(){
     [0, 17, 1 , 9 , 2 , 24, 40, 3 , 22, 4 , 15, 5 , 11, 0], //10
     [0, 6 , 1 , 12, 2 , 7 , 3 , 25, 41, 4 , 23, 5 , 16, 0], //11
   ];
-
+ 
+  //Anfangsfälle für die Übergangspunkte der Ordnung 0
   rhoHv[0]   = [a,     b ];
   sigmaHv[0] = [a,     b ];
   rhoPv[0]   = [0, 2 * b3];
@@ -368,21 +381,14 @@ function setup(){
 var rec = true;
 function draw(){
   background(220);
-  /*if(rec){
-    console.profile();
-    zeichneH([2000, -700], 0, 6);
-    zeichneH([2000, -700], 0, 6);
-    zeichneH([2000, -700], 0, 6);
-    zeichneH([2000, -700], 0, 6);
-    console.profileEnd();
-    rec=false;
-  } else {*/
+  //Verschieben des Bildes
   if (mouseIsPressed === true) {
     if (mouseButton === LEFT) {
       posx = posx + mouseX - pmouseX;
       posy = posy - mouseY + pmouseY;
     }
   }
+  //notwendige Ordnung berechnen
   let thetaH0 = thetaH(0, groesse);
   let entf = sqrt(thetaH0[0]**2,thetaH0[1]**2);
   let entfor = sqrt((posx-w)**2+posy**2);
@@ -393,6 +399,6 @@ function draw(){
   if(maxentf > entf){
     groesse = groesse+1;
   }
+  //Zeichnen des Supertiles
   zeichneH([posx,posy], 0, groesse);
-  //}
 }
