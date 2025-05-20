@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2000"
+   height="1400"
+   viewBox="450 350 1150 1050"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="bild12.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="545.88643"
+     inkscape:cy="1979.899"
+     inkscape:window-width="2569"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g29" />
+  <defs
+     id="defs24">
+    <path
+       id="tile"
+       style="stroke:#202020;opacity:1;stroke-width:8;"
+       d=" M0.00000000,0.00000000 100.00000000,0.00000000 193.96926208,34.20201433 143.96926208,120.80455471 50.00000000,86.60254038 -0.00000000,0.00000000 Z " />
+    <g
+       id="rtile"
+       transform="scale(-1,1)">
+      <use
+         xlink:href="#tile"
+         id="use1" />
+    </g>
+    <g
+       id="unit">
+      <use
+         xlink:href="#tile"
+         fill="red"
+         fill-opacity="0"
+         id="use2" />
+    </g>
+  </defs>
+  <g
+     transform="matrix(1.3131139,0,0,1.3131139,1021.0995,860.82825)"
+     id="g29">
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,293.25115,-483.82297)"
+       id="use25" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-155.11114,5.7527333)"
+       id="use28" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,340.98736,-395.85434)"
+       id="use25-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-104.32243,-21.807785)"
+       id="use28-7" />
+    <!--
+-->
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,341.07859,-395.83641)"
+       id="use25-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-104.31208,-21.860455)"
+       id="use28-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,389.41709,-307.84195)"
+       id="use25-6-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-53.508467,-49.768705)"
+       id="use28-7-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,197.03757,-659.75566)"
+       id="use25-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-256.68593,61.301668)"
+       id="use28-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,244.77378,-571.78703)"
+       id="use25-6-28" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-205.89722,33.74115)"
+       id="use28-7-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,244.86501,-571.7691)"
+       id="use25-2-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-205.88687,33.68848)"
+       id="use28-0-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,293.20351,-483.77465)"
+       id="use25-6-2-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-155.08326,5.7802335)"
+       id="use28-7-3-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,88.459949,-268.61256)"
+       id="use25-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-30.859357,123.98899)"
+       id="use28-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,136.19616,-180.64393)"
+       id="use25-6-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,19.929353,96.428468)"
+       id="use28-7-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,136.28739,-180.626)"
+       id="use25-2-78" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,19.939703,96.375798)"
+       id="use28-0-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,184.62589,-92.63155)"
+       id="use25-6-2-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,70.743313,68.467548)"
+       id="use28-7-3-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-7.7536317,-444.54525)"
+       id="use25-9-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-132.43414,179.53793)"
+       id="use28-2-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,39.982579,-356.57662)"
+       id="use25-6-28-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-81.645434,151.97741)"
+       id="use28-7-9-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,40.073809,-356.55869)"
+       id="use25-2-7-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-81.635084,151.92474)"
+       id="use28-0-3-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,88.412309,-268.56424)"
+       id="use25-6-2-6-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-30.831467,124.01649)"
+       id="use28-7-3-1-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-358.33577,116.84697)"
+       id="use28-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,148.56651,-747.84972)"
+       id="use25-6-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-307.54705,89.28644)"
+       id="use28-7-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,148.65774,-747.83179)"
+       id="use25-2-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-307.5367,89.23377)"
+       id="use28-0-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,196.99624,-659.83733)"
+       id="use25-6-2-69" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-256.73309,61.325524)"
+       id="use28-7-3-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-358.30788,116.87447)"
+       id="use28-7-3-1-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-103.9609,-620.60794)"
+       id="use25-3-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-234.08399,235.08322)"
+       id="use28-1-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-56.224686,-532.63931)"
+       id="use25-6-9-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-183.29528,207.5227)"
+       id="use28-7-4-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-56.133456,-532.62138)"
+       id="use25-2-78-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-183.28493,207.47003)"
+       id="use28-0-4-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-7.7949569,-444.62693)"
+       id="use25-6-2-5-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-132.48132,179.56178)"
+       id="use28-7-3-0-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-104.00854,-620.55962)"
+       id="use25-6-2-6-2-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-234.0561,235.11072)"
+       id="use28-7-3-1-0-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,677.98937,220.20113)"
+       id="use25-26" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,251.35736,-216.37598)"
+       id="use28-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,725.72558,308.16975)"
+       id="use25-6-49" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,725.81681,308.18768)"
+       id="use25-2-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,581.77579,44.26843)"
+       id="use25-9-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,149.78258,-160.82704)"
+       id="use28-2-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,629.512,132.23703)"
+       id="use25-6-28-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,200.57129,-188.38756)"
+       id="use28-7-9-26" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,629.60323,132.25503)"
+       id="use25-2-7-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,200.58164,-188.44023)"
+       id="use28-0-3-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,677.94173,220.24943)"
+       id="use25-6-2-6-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,251.38525,-216.34848)"
+       id="use28-7-3-1-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,473.19817,435.41153)"
+       id="use25-3-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,375.60915,-98.139725)"
+       id="use28-1-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,376.98459,259.47884)"
+       id="use25-9-3-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,274.03436,-42.590784)"
+       id="use28-2-6-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,424.7208,347.44747)"
+       id="use25-6-28-1-15" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,324.82307,-70.151304)"
+       id="use28-7-9-0-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,424.81203,347.4654)"
+       id="use25-2-7-6-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,324.83342,-70.203974)"
+       id="use28-0-3-3-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,473.15053,435.45985)"
+       id="use25-6-2-6-2-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,375.63704,-98.112225)"
+       id="use28-7-3-1-0-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,485.56852,-131.79427)"
+       id="use25-5-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,48.132743,-105.28174)"
+       id="use28-5-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,533.30473,-43.82567)"
+       id="use25-6-4-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,98.921463,-132.84227)"
+       id="use28-7-7-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,533.39596,-43.80767)"
+       id="use25-2-6-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,98.931813,-132.89494)"
+       id="use28-0-5-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,581.73446,44.18673)"
+       id="use25-6-2-69-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,149.73542,-160.80319)"
+       id="use28-7-3-3-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,389.35494,-307.72697)"
+       id="use25-9-7-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-53.442037,-49.732814)"
+       id="use28-2-4-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,437.09115,-219.75827)"
+       id="use25-6-28-5-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-2.6533266,-77.293334)"
+       id="use28-7-9-2-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,437.18238,-219.74037)"
+       id="use25-2-7-5-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-2.6429766,-77.346004)"
+       id="use28-0-3-4-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,485.52088,-131.74597)"
+       id="use25-6-2-6-7-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,48.160633,-105.25424)"
+       id="use28-7-3-1-4-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,280.77732,83.41613)"
+       id="use25-3-4-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,172.38452,12.954502)"
+       id="use28-1-3-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,328.51353,171.38483)"
+       id="use25-6-9-0-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,223.17323,-14.606014)"
+       id="use28-7-4-7-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,328.60476,171.40273)"
+       id="use25-2-78-8-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,223.18358,-14.658684)"
+       id="use28-0-4-6-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,376.94326,259.39716)"
+       id="use25-6-2-5-8-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,273.98719,-42.566934)"
+       id="use28-7-3-0-8-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,184.56374,-92.51657)"
+       id="use25-9-3-4-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,70.809753,68.503441)"
+       id="use28-2-6-3-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,232.29995,-4.5478696)"
+       id="use25-6-28-1-1-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,121.59845,40.942921)"
+       id="use28-7-9-0-4-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,232.39118,-4.5299696)"
+       id="use25-2-7-6-9-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,121.6088,40.890251)"
+       id="use28-0-3-3-2-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,280.72968,83.46443)"
+       id="use25-6-2-6-2-0-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,172.41241,12.982002)"
+       id="use28-7-3-1-0-6-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-116.17032,-53.380922)"
+       id="use25-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,93.404691,242.13232)"
+       id="use28-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-68.434105,34.587708)"
+       id="use25-6-44" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,144.1934,214.5718)"
+       id="use28-7-47" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-68.342875,34.605638)"
+       id="use25-2-63" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,144.20375,214.51913)"
+       id="use28-0-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-20.004375,122.60009)"
+       id="use25-6-2-75" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,195.00736,186.61088)"
+       id="use28-7-3-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-212.3839,-229.31362)"
+       id="use25-9-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-8.1700993,297.68126)"
+       id="use28-2-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-164.64769,-141.34499)"
+       id="use25-6-28-17" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,42.618611,270.12074)"
+       id="use28-7-9-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-164.55646,-141.32706)"
+       id="use25-2-7-57" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,42.628961,270.06807)"
+       id="use28-0-3-41" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-116.21796,-53.332602)"
+       id="use25-6-2-6-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,93.432571,242.15982)"
+       id="use28-7-3-1-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-320.96152,161.82948)"
+       id="use25-3-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-273.22531,249.79811)"
+       id="use25-6-9-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-273.13408,249.81604)"
+       id="use25-2-78-88" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-224.79558,337.81049)"
+       id="use25-6-2-5-18" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-417.17509,-14.103202)"
+       id="use25-9-3-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-369.43888,73.865428)"
+       id="use25-6-28-1-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-369.34765,73.883358)"
+       id="use25-2-7-6-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-321.00916,161.8778)"
+       id="use25-6-2-6-2-60" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-308.59117,-405.37635)"
+       id="use25-5-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-109.81994,353.22656)"
+       id="use28-5-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-260.85496,-317.40765)"
+       id="use25-6-4-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-59.031219,325.66603)"
+       id="use28-7-7-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-260.76373,-317.38975)"
+       id="use25-2-6-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-59.020869,325.61336)"
+       id="use28-0-5-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-212.42523,-229.39529)"
+       id="use25-6-2-69-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-8.2172593,297.70511)"
+       id="use28-7-3-3-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-357.06853,-493.34035)"
+       id="use25-6-28-5-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-160.60601,381.21497)"
+       id="use28-7-9-2-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-356.9773,-493.32245)"
+       id="use25-2-7-5-92" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-160.59566,381.1623)"
+       id="use28-0-3-4-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-308.63881,-405.32795)"
+       id="use25-6-2-6-7-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,-109.79205,353.25406)"
+       id="use28-7-3-1-4-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-513.38236,-190.1659)"
+       id="use25-3-4-59" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-465.64615,-102.19726)"
+       id="use25-6-9-0-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-465.55492,-102.17933)"
+       id="use25-2-78-8-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-417.21642,-14.184882)"
+       id="use25-6-2-5-8-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-609.59595,-366.09855)"
+       id="use25-9-3-4-7" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-561.85974,-278.12995)"
+       id="use25-6-28-1-1-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-561.76851,-278.11205)"
+       id="use25-2-7-6-9-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-513.43,-190.11758)"
+       id="use25-6-2-6-2-0-89" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,172.35432,474.71047)"
+       id="use25-9-2-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,398.29842,75.552555)"
+       id="use28-2-7-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,220.09053,562.67907)"
+       id="use25-6-28-2-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,449.08713,47.992035)"
+       id="use28-7-9-26-5" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,220.18176,562.69707)"
+       id="use25-2-7-1-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,449.09748,47.939365)"
+       id="use28-0-3-0-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-32.436875,689.92088)"
+       id="use25-9-3-7-2" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,76.147055,298.64777)"
+       id="use25-5-3-8" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,296.64857,131.09785)"
+       id="use28-5-6-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,123.88326,386.61637)"
+       id="use25-6-4-5-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,347.4373,103.53732)"
+       id="use28-7-7-6-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,123.97449,386.63437)"
+       id="use25-2-6-3-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,347.44765,103.48465)"
+       id="use28-0-5-9-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,172.31299,474.62877)"
+       id="use25-6-2-69-4-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,398.25126,75.576405)"
+       id="use28-7-3-3-8-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-20.066525,122.71507)"
+       id="use25-9-7-1-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,195.07379,186.64677)"
+       id="use28-2-4-2-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,27.669685,210.68377)"
+       id="use25-6-28-5-9-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,245.86251,159.08625)"
+       id="use28-7-9-2-3-1" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,27.760915,210.70167)"
+       id="use25-2-7-5-9-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,245.87286,159.03358)"
+       id="use28-0-3-4-0-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,76.099415,298.69607)"
+       id="use25-6-2-6-7-8-9" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(-120,296.67646,131.12535)"
+       id="use28-7-3-1-4-8-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-128.64415,513.85817)"
+       id="use25-3-4-5-3" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-80.907935,601.82687)"
+       id="use25-6-9-0-9-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-80.816705,601.84477)"
+       id="use25-2-78-8-3-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-32.478205,689.8392)"
+       id="use25-6-2-5-8-5-4" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-224.85773,337.92547)"
+       id="use25-9-3-4-1-0" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-177.12152,425.89417)"
+       id="use25-6-28-1-1-5-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-177.03029,425.91207)"
+       id="use25-2-7-6-9-8-6" />
+    <use
+       xlink:href="#unit"
+       transform="rotate(60,-128.69179,513.90647)"
+       id="use25-6-2-6-2-0-8-5" />
+  </g>
+</svg>

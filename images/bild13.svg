@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="1000.0"
+   height="700"
+   viewBox="100 100 300 300"
+   id="svg120"
+   sodipodi:docname="bild13.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs120" />
+  <sodipodi:namedview
+     id="namedview120"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.58740371"
+     inkscape:cx="1083.5819"
+     inkscape:cy="363.46383"
+     inkscape:window-width="2561"
+     inkscape:window-height="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg120" />
+  <!-- X Coordinate transform: fx(x)=(x+13.205746)*21.908379-->
+  <!-- Y Coordinate transform: fy(y)=(14.528414-y)*21.908379 -->
+  <!-- Flac geometry view -->
+  <g
+     style="opacity:1;fill:#5a5aff;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g15"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group <Default> -->
+    <polygon
+       fill-rule="evenodd"
+       points="71.562,277.787 84.439,295.511 97.317,313.235 110.194,330.96 131.03,337.73 175.742,271.017 154.906,264.247 134.07,257.477 113.234,264.247 92.398,271.017 "
+       id="polygon1"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="47.686,351.27 60.563,368.994 73.44,386.718 86.318,404.443 107.154,411.213 151.866,344.5 131.03,337.73 110.194,330.96 89.358,337.73 68.522,344.5 "
+       id="polygon2"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="907.602,271.017 886.766,264.247 865.93,257.477 845.094,264.247 848.134,344.5 868.97,337.73 889.806,330.96 902.683,313.235 915.561,295.511 928.438,277.787 "
+       id="polygon3"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="931.478,344.5 910.642,337.73 889.806,330.96 868.97,337.73 872.01,417.983 892.846,411.212 913.682,404.442 926.56,386.718 939.437,368.994 952.314,351.27 "
+       id="polygon4"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="157.946,837.582 178.782,830.812 199.618,824.042 220.454,817.272 233.332,799.548 183.701,736.409 170.823,754.133 157.946,771.857 157.946,793.766 157.946,815.674 "
+       id="polygon5"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="241.29,876.227 262.127,869.457 282.963,862.687 295.84,844.963 246.209,781.824 233.332,799.548 220.454,817.272 220.454,839.181 220.454,861.089 220.454,882.997 "
+       id="polygon6"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="976.19,424.753 955.354,417.982 934.518,411.212 913.682,404.442 892.846,411.212 895.886,491.466 916.722,484.695 937.558,477.925 950.436,460.201 963.313,442.477 "
+       id="polygon7"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="499.999,22.644 487.122,40.368 474.245,58.093 461.367,75.817 461.367,97.725 538.632,119.634 538.632,97.725 538.632,75.817 525.754,58.093 512.877,40.368 "
+       id="polygon8"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="577.265,22.644 564.387,40.368 551.51,58.093 538.632,75.817 538.632,97.725 615.897,119.634 615.897,97.725 615.897,75.817 603.02,58.093 590.142,40.368 "
+       id="polygon9"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="842.054,837.583 842.054,815.674 842.054,793.766 842.054,771.858 829.177,754.133 753.791,781.824 766.668,799.548 779.546,817.272 800.382,824.042 821.218,830.813 "
+       id="polygon10"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="779.546,861.089 779.546,839.181 779.546,817.272 766.668,799.548 691.283,827.239 704.16,844.963 717.037,862.687 737.873,869.457 758.71,876.227 779.546,882.997 "
+       id="polygon11"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="303.799,921.642 324.635,914.872 345.471,908.102 358.348,890.378 308.718,827.239 295.84,844.963 282.963,862.687 282.963,884.596 282.963,906.504 282.963,928.412 "
+       id="polygon12"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="422.735,22.644 409.858,40.369 396.98,58.093 384.103,75.817 384.103,97.725 461.367,119.634 461.367,97.725 461.367,75.817 448.49,58.093 435.612,40.369 "
+       id="polygon13"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="23.81,424.753 36.687,442.477 49.564,460.201 62.442,477.926 83.278,484.696 127.99,417.983 107.154,411.213 86.318,404.443 65.482,411.213 44.646,417.983 "
+       id="polygon14"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="717.037,928.412 717.037,906.504 717.037,884.596 717.037,862.687 704.16,844.963 628.774,872.654 641.652,890.378 654.529,908.102 675.365,914.872 696.201,921.642 "
+       id="polygon15"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+  <g
+     style="opacity:1;fill:#5abf5a;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g20"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group e -->
+    <polygon
+       fill-rule="evenodd"
+       points="512.877,515.96 500,498.236 487.123,515.96 474.245,533.684 461.368,551.409 461.368,573.317 538.632,595.225 538.632,573.317 538.632,551.409 525.755,533.684 "
+       id="polygon16"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="419.696,564.949 440.532,558.179 461.368,551.409 474.245,533.684 487.123,515.96 500,498.236 479.164,491.466 458.328,484.696 437.492,477.926 416.656,484.696 "
+       id="polygon17"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="411.737,442.477 424.614,460.201 437.492,477.926 458.328,484.696 479.164,491.466 500,498.236 500,476.327 500,454.419 500,432.511 487.123,414.786 "
+       id="polygon18"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="541.672,484.696 520.836,491.466 500,498.236 512.877,515.96 525.755,533.684 538.632,551.409 559.468,558.179 604.181,491.466 583.344,484.696 562.508,477.926 "
+       id="polygon19"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="525.755,397.062 512.877,414.786 500,432.511 500,454.419 500,476.327 500,498.236 520.836,491.466 541.672,484.696 562.508,477.926 575.386,460.201 "
+       id="polygon20"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+  <g
+     style="opacity:1;fill:#5abfbf;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g30"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group a -->
+    <polygon
+       fill-rule="evenodd"
+       points="500,670.306 512.877,652.582 525.755,634.858 538.632,617.134 538.632,595.225 461.368,573.317 461.368,595.225 461.368,617.134 474.245,634.858 487.123,652.582 "
+       id="polygon21"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="333.311,484.696 354.147,491.466 374.983,498.236 395.819,491.466 416.656,484.696 437.492,477.926 424.614,460.201 411.737,442.477 398.859,424.753 378.023,417.983 "
+       id="polygon22"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="336.351,551.409 357.187,558.179 378.023,564.949 398.859,571.719 419.696,564.949 416.656,484.696 395.819,491.466 374.983,498.236 362.106,515.96 349.229,533.684 "
+       id="polygon23"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="601.141,424.753 588.263,442.477 575.386,460.201 562.508,477.926 583.344,484.696 604.181,491.466 625.017,498.236 645.853,491.466 642.813,411.213 621.977,417.983 "
+       id="polygon24"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="663.649,551.409 650.771,533.684 637.894,515.96 625.017,498.236 604.181,491.466 559.468,558.179 580.304,564.949 601.141,571.719 621.977,564.949 642.813,558.179 "
+       id="polygon25"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="601.141,359.028 580.305,365.798 559.468,372.568 538.632,379.338 525.755,397.062 575.386,460.201 588.263,442.477 601.141,424.753 601.141,402.845 601.141,380.936 "
+       id="polygon26"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="601.141,571.719 580.304,564.949 559.468,558.179 538.632,551.409 538.632,573.317 538.632,595.225 538.632,617.134 551.51,634.858 626.895,607.167 614.018,589.443 "
+       id="polygon27"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="461.368,379.338 474.245,397.062 487.123,414.786 500,432.511 512.877,414.786 525.755,397.062 538.632,379.338 538.632,357.429 461.368,335.521 461.368,357.43 "
+       id="polygon28"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="385.982,589.443 435.613,652.582 448.49,634.858 461.368,617.134 461.368,595.225 461.368,573.317 461.368,551.409 440.532,558.179 419.696,564.949 398.859,571.719 "
+       id="polygon29"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="398.859,359.028 398.859,380.936 398.859,402.845 398.859,424.753 411.737,442.477 487.123,414.786 474.245,397.062 461.368,379.338 440.532,372.568 419.695,365.798 "
+       id="polygon30"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+  <g
+     style="opacity:1;fill:#bf5a5a;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g45"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group b -->
+    <polygon
+       fill-rule="evenodd"
+       points="273.843,424.753 286.72,442.477 299.598,460.201 312.475,477.926 333.311,484.696 378.023,417.983 357.187,411.213 336.351,404.443 315.515,411.213 294.679,417.983 "
+       id="polygon31"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="294.679,564.949 315.515,558.179 336.351,551.409 349.229,533.684 362.106,515.96 374.983,498.236 354.147,491.466 333.311,484.696 312.475,477.926 291.639,484.696 "
+       id="polygon32"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="729.197,491.466 708.361,484.696 687.525,477.926 666.689,484.696 645.853,491.466 625.017,498.236 637.894,515.96 650.771,533.684 663.649,551.409 684.485,558.179 "
+       id="polygon33"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="705.321,564.949 684.485,558.179 663.649,551.409 642.813,558.179 621.977,564.949 601.141,571.719 614.018,589.443 626.895,607.167 639.773,624.891 660.609,631.662 "
+       id="polygon34"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="626.895,323.579 614.018,341.303 601.141,359.028 601.141,380.936 601.141,402.845 601.141,424.753 621.977,417.983 642.813,411.213 663.649,404.443 676.526,386.718 "
+       id="polygon35"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="564.387,278.164 551.51,295.888 538.632,313.613 538.632,335.521 538.632,357.429 538.632,379.338 559.468,372.568 580.305,365.798 601.141,359.028 614.018,341.303 "
+       id="polygon36"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="726.157,424.753 705.321,417.983 684.485,411.213 663.649,404.443 642.813,411.213 645.853,491.466 666.689,484.696 687.525,477.926 700.402,460.201 713.28,442.477 "
+       id="polygon37"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="500,714.123 500,692.215 500,670.306 487.123,652.582 474.245,634.858 461.368,617.134 448.49,634.858 435.613,652.582 422.736,670.306 422.736,692.215 "
+       id="polygon38"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="577.265,714.123 577.265,692.215 577.265,670.306 564.387,652.582 551.51,634.858 538.632,617.134 525.755,634.858 512.877,652.582 500,670.306 500,692.215 "
+       id="polygon39"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="639.773,690.617 639.773,668.708 639.773,646.8 639.773,624.891 626.895,607.167 551.51,634.858 564.387,652.582 577.265,670.306 598.101,677.077 618.937,683.847 "
+       id="polygon40"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="318.555,638.432 339.391,631.662 360.227,624.891 373.105,607.167 385.982,589.443 398.859,571.719 378.023,564.949 357.187,558.179 336.351,551.409 315.515,558.179 "
+       id="polygon41"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="360.227,690.617 381.063,683.847 401.899,677.077 422.736,670.306 435.613,652.582 385.982,589.443 373.105,607.167 360.227,624.891 360.227,646.8 360.227,668.708 "
+       id="polygon42"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="310.596,368.994 323.474,386.719 336.351,404.443 357.187,411.213 378.023,417.983 398.859,424.753 398.859,402.845 398.859,380.936 398.859,359.028 385.982,341.304 "
+       id="polygon43"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="373.105,323.579 385.982,341.304 398.859,359.028 419.695,365.798 440.532,372.568 461.368,379.338 461.368,357.43 461.368,335.521 461.368,313.613 448.49,295.889 "
+       id="polygon44"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="500,260.44 487.122,278.164 474.245,295.889 461.368,313.613 461.368,335.521 538.632,357.429 538.632,335.521 538.632,313.613 525.755,295.888 512.877,278.164 "
+       id="polygon45"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+  <g
+     style="opacity:1;fill:#af5aaf;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g65"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group c -->
+    <polygon
+       fill-rule="evenodd"
+       points="232.171,411.213 253.007,417.983 273.843,424.753 294.679,417.983 315.515,411.213 336.351,404.443 323.474,386.719 310.596,368.994 297.719,351.27 276.883,344.5 "
+       id="polygon46"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="208.295,484.696 229.131,491.466 249.967,498.236 270.803,491.466 291.639,484.696 312.475,477.926 299.598,460.201 286.72,442.477 273.843,424.753 253.007,417.983 "
+       id="polygon47"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="775.788,533.684 762.911,515.96 750.033,498.236 729.197,491.466 684.485,558.179 705.321,564.949 726.157,571.719 746.993,564.949 767.829,558.179 788.666,551.408 "
+       id="polygon48"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="764.789,624.892 751.912,607.167 739.035,589.443 726.157,571.719 705.321,564.949 660.609,631.662 681.445,638.432 702.281,645.202 723.117,638.432 743.953,631.662 "
+       id="polygon49"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="618.937,246.9 598.1,253.67 577.264,260.44 564.387,278.164 614.018,341.303 626.895,323.579 639.773,305.855 639.773,283.947 639.773,262.038 639.773,240.13 "
+       id="polygon50"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="702.281,285.545 681.445,292.315 660.609,299.085 639.773,305.855 626.895,323.579 676.526,386.718 689.404,368.994 702.281,351.27 702.281,329.361 702.281,307.453 "
+       id="polygon51"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="743.953,337.73 723.117,344.5 702.281,351.27 689.404,368.994 676.526,386.718 663.649,404.443 684.485,411.213 705.321,417.983 726.157,424.753 746.993,417.983 "
+       id="polygon52"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="767.829,411.213 746.993,417.983 726.157,424.753 713.28,442.477 700.402,460.201 687.525,477.926 708.361,484.696 729.197,491.466 750.033,498.236 770.869,491.466 "
+       id="polygon53"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="551.51,771.48 564.387,753.756 577.265,736.032 577.265,714.123 500,692.215 500,714.123 500,736.032 512.877,753.756 525.755,771.48 538.632,789.204 "
+       id="polygon54"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="461.368,789.204 474.245,771.48 487.123,753.756 500,736.032 500,714.123 422.736,692.215 422.736,714.123 422.736,736.032 435.613,753.756 448.49,771.48 "
+       id="polygon55"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="665.528,726.065 652.65,708.341 639.773,690.617 618.937,683.847 598.101,677.077 577.265,670.306 577.265,692.215 577.265,714.123 577.265,736.032 590.142,753.756 "
+       id="polygon56"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="334.472,726.065 347.35,708.341 360.227,690.617 360.227,668.708 360.227,646.8 360.227,624.891 339.391,631.662 318.555,638.432 297.719,645.202 284.841,662.926 "
+       id="polygon57"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="235.211,624.891 256.047,631.662 276.883,638.432 297.719,645.202 318.555,638.432 315.515,558.179 294.679,564.949 273.843,571.719 260.965,589.443 248.088,607.167 "
+       id="polygon58"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="396.981,771.48 409.858,753.756 422.736,736.032 422.736,714.123 422.736,692.215 422.736,670.306 401.899,677.077 381.063,683.847 360.227,690.617 347.35,708.341 "
+       id="polygon59"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="728.036,680.65 715.159,662.926 702.281,645.202 681.445,638.432 660.609,631.662 639.773,624.891 639.773,646.8 639.773,668.708 639.773,690.617 652.65,708.341 "
+       id="polygon60"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="297.719,285.545 297.719,307.453 297.719,329.362 297.719,351.27 310.596,368.994 385.982,341.304 373.105,323.579 360.227,305.855 339.391,299.085 318.555,292.315 "
+       id="polygon61"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="381.063,246.9 360.227,240.13 360.227,262.038 360.227,283.947 360.227,305.855 373.105,323.579 448.49,295.889 435.613,278.164 422.735,260.44 401.899,253.67 "
+       id="polygon62"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="224.212,533.684 211.334,551.409 232.171,558.179 253.007,564.949 273.843,571.719 294.679,564.949 291.639,484.696 270.803,491.466 249.967,498.236 237.089,515.96 "
+       id="polygon63"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="422.735,216.623 422.735,238.532 422.735,260.44 435.613,278.164 448.49,295.889 461.368,313.613 474.245,295.889 487.122,278.164 500,260.44 500,238.532 "
+       id="polygon64"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="500,216.623 500,238.532 500,260.44 512.877,278.164 525.755,295.888 538.632,313.613 551.51,295.888 564.387,278.164 577.264,260.44 577.264,238.532 "
+       id="polygon65"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+  <g
+     style="opacity:1;fill:#bfbf5a;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g90"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group d -->
+    <polygon
+       fill-rule="evenodd"
+       points="172.702,351.27 185.58,368.994 198.457,386.718 211.334,404.443 232.171,411.213 276.883,344.5 256.047,337.73 235.211,330.96 214.374,337.73 193.538,344.5 "
+       id="polygon66"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="148.826,424.753 161.704,442.477 174.581,460.201 187.458,477.926 208.295,484.696 253.007,417.983 232.171,411.213 211.334,404.443 190.498,411.213 169.662,417.983 "
+       id="polygon67"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="830.338,564.949 809.502,558.179 788.666,551.408 767.829,558.179 746.993,564.949 726.157,571.719 739.035,589.443 751.912,607.167 764.789,624.892 785.626,631.662 "
+       id="polygon68"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="806.462,638.432 785.626,631.662 764.789,624.892 743.953,631.662 723.117,638.432 702.281,645.202 715.159,662.926 728.036,680.65 740.913,698.375 761.75,705.145 "
+       id="polygon69"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="665.528,204.681 652.65,222.406 639.773,240.13 639.773,262.038 639.773,283.947 639.773,305.855 660.609,299.085 681.445,292.315 702.281,285.545 715.158,267.82 "
+       id="polygon70"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="603.019,159.266 590.142,176.991 577.265,194.715 577.265,216.623 577.264,238.532 577.264,260.44 598.1,253.67 618.937,246.9 639.773,240.13 652.65,222.406 "
+       id="polygon71"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="827.298,351.27 806.462,344.5 785.626,337.73 764.789,330.96 743.953,337.73 746.993,417.983 767.829,411.213 788.665,404.443 801.543,386.718 814.42,368.994 "
+       id="polygon72"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="851.174,424.753 830.338,417.983 809.502,411.213 788.665,404.443 767.829,411.213 770.869,491.466 791.705,484.696 812.542,477.925 825.419,460.201 838.296,442.477 "
+       id="polygon73"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="728.036,250.096 715.158,267.82 702.281,285.545 702.281,307.453 702.281,329.361 702.281,351.27 723.117,344.5 743.953,337.73 764.789,330.96 777.667,313.235 "
+       id="polygon74"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="538.632,833.021 538.632,811.113 538.632,789.204 525.755,771.48 512.877,753.756 500,736.032 487.123,753.756 474.245,771.48 461.368,789.204 461.368,811.113 "
+       id="polygon75"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="603.019,771.48 590.142,753.756 577.265,736.032 564.387,753.756 551.51,771.48 538.632,789.204 538.632,811.113 615.897,833.021 615.897,811.113 615.897,789.204 "
+       id="polygon76"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="461.368,833.021 461.368,811.113 461.368,789.204 448.49,771.48 435.613,753.756 422.736,736.032 409.858,753.756 396.981,771.48 384.103,789.204 384.103,811.113 "
+       id="polygon77"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="217.414,711.915 238.25,705.145 259.087,698.374 271.964,680.65 284.841,662.926 297.719,645.202 276.883,638.432 256.047,631.662 235.211,624.891 214.374,631.662 "
+       id="polygon78"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="259.087,764.1 279.923,757.33 300.759,750.559 321.595,743.789 334.472,726.065 284.841,662.926 271.964,680.65 259.087,698.374 259.087,720.283 259.087,742.191 "
+       id="polygon79"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="342.431,802.744 363.267,795.974 384.103,789.204 396.981,771.48 347.35,708.341 334.472,726.065 321.595,743.789 321.595,765.698 321.595,787.606 321.595,809.515 "
+       id="polygon80"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="740.913,764.1 740.913,742.191 740.913,720.283 740.913,698.375 728.036,680.65 652.65,708.341 665.528,726.065 678.405,743.789 699.241,750.56 720.077,757.33 "
+       id="polygon81"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="209.456,295.511 222.333,313.236 235.211,330.96 256.047,337.73 276.883,344.5 297.719,351.27 297.719,329.362 297.719,307.453 297.719,285.545 284.841,267.821 "
+       id="polygon82"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="271.964,250.096 284.841,267.821 297.719,285.545 318.555,292.315 339.391,299.085 360.227,305.855 360.227,283.947 360.227,262.038 360.227,240.13 347.35,222.406 "
+       id="polygon83"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="334.472,204.682 347.35,222.406 360.227,240.13 381.063,246.9 401.899,253.67 422.735,260.44 422.735,238.532 422.735,216.623 422.735,194.715 409.858,176.991 "
+       id="polygon84"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="193.538,638.432 214.374,631.662 235.211,624.891 248.088,607.167 260.965,589.443 273.843,571.719 253.007,564.949 232.171,558.179 211.334,551.409 190.498,558.179 "
+       id="polygon85"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="169.662,564.949 190.498,558.179 211.334,551.409 224.212,533.684 237.089,515.96 249.967,498.236 229.131,491.466 208.295,484.696 187.458,477.926 166.622,484.696 "
+       id="polygon86"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="854.214,491.466 833.378,484.696 812.542,477.925 791.705,484.696 770.869,491.466 750.033,498.236 762.911,515.96 775.788,533.684 788.666,551.408 809.502,558.179 "
+       id="polygon87"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="448.49,159.266 435.613,176.991 422.735,194.715 422.735,216.623 500,238.532 500,216.623 500,194.715 487.122,176.991 474.245,159.266 461.367,141.542 "
+       id="polygon88"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="538.632,141.542 525.755,159.266 512.877,176.991 500,194.715 500,216.623 577.264,238.532 577.265,216.623 577.265,194.715 564.387,176.991 551.51,159.266 "
+       id="polygon89"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="678.405,809.515 678.405,787.606 678.405,765.698 678.405,743.789 665.528,726.065 590.142,753.756 603.019,771.48 615.897,789.204 636.733,795.974 657.569,802.744 "
+       id="polygon90"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+  <g
+     style="opacity:1;fill:#a6a6ff;fill-opacity:0;stroke:#000000;stroke-width:6.92560081;stroke-opacity:1;stroke-dasharray:none"
+     id="g120"
+     transform="matrix(0.61882202,0,0,0.61882202,-61.124016,-64.770226)">
+    <!-- group f -->
+    <polygon
+       fill-rule="evenodd"
+       points="131.03,337.73 151.866,344.5 172.702,351.27 193.538,344.5 214.374,337.73 235.211,330.96 222.333,313.236 209.456,295.511 196.578,277.787 175.742,271.017 "
+       id="polygon91"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="107.154,411.213 127.99,417.983 148.826,424.753 169.662,417.983 190.498,411.213 211.334,404.443 198.457,386.718 185.58,368.994 172.702,351.27 151.866,344.5 "
+       id="polygon92"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="876.929,607.167 864.051,589.443 851.174,571.719 830.338,564.949 785.626,631.662 806.462,638.432 827.298,645.202 848.134,638.432 868.97,631.661 889.806,624.891 "
+       id="polygon93"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="865.93,698.375 853.053,680.65 840.175,662.926 827.298,645.202 806.462,638.432 761.75,705.145 782.586,711.915 803.422,718.685 824.258,711.915 845.094,705.145 "
+       id="polygon94"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="678.405,121.232 657.569,128.002 636.733,134.772 615.897,141.542 603.019,159.266 652.65,222.406 665.528,204.681 678.405,186.957 678.405,165.049 678.405,143.14 "
+       id="polygon95"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="740.913,166.647 720.077,173.417 699.241,180.187 678.405,186.957 665.528,204.681 715.158,267.82 728.036,250.096 740.913,232.372 740.913,210.464 740.913,188.555 "
+       id="polygon96"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="868.97,337.73 848.134,344.5 827.298,351.27 814.42,368.994 801.543,386.718 788.665,404.443 809.502,411.213 830.338,417.983 851.174,424.753 872.01,417.983 "
+       id="polygon97"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="845.094,264.247 824.258,271.017 803.422,277.787 790.544,295.511 777.667,313.235 764.789,330.96 785.626,337.73 806.462,344.5 827.298,351.27 848.134,344.5 "
+       id="polygon98"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="803.421,212.062 782.585,218.832 761.749,225.602 740.913,232.372 728.036,250.096 777.667,313.235 790.544,295.511 803.422,277.787 803.422,255.878 803.422,233.97 "
+       id="polygon99"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="500,908.102 512.877,890.378 525.755,872.654 538.632,854.929 538.632,833.021 461.368,811.113 461.368,833.021 461.368,854.929 474.245,872.654 487.123,890.378 "
+       id="polygon100"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="577.265,908.102 590.142,890.378 603.019,872.654 615.897,854.929 615.897,833.021 538.632,811.113 538.632,833.021 538.632,854.929 551.51,872.654 564.387,890.378 "
+       id="polygon101"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="422.736,908.102 435.613,890.378 448.49,872.654 461.368,854.929 461.368,833.021 384.103,811.113 384.103,833.021 384.103,854.93 396.981,872.654 409.858,890.378 "
+       id="polygon102"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="233.332,799.548 246.209,781.824 259.087,764.1 259.087,742.191 259.087,720.283 259.087,698.374 238.25,705.145 217.414,711.915 196.578,718.685 183.701,736.409 "
+       id="polygon103"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="154.906,705.145 175.742,711.915 196.578,718.685 217.414,711.915 214.374,631.662 193.538,638.432 172.702,645.202 159.825,662.926 146.947,680.65 134.07,698.374 "
+       id="polygon104"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="295.84,844.963 308.718,827.239 321.595,809.515 321.595,787.606 321.595,765.698 321.595,743.789 300.759,750.559 279.923,757.33 259.087,764.1 246.209,781.824 "
+       id="polygon105"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="829.177,754.133 816.299,736.409 803.422,718.685 782.586,711.915 761.75,705.145 740.913,698.375 740.913,720.283 740.913,742.191 740.913,764.1 753.791,781.824 "
+       id="polygon106"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="196.578,212.062 196.578,233.971 196.578,255.879 196.578,277.787 209.456,295.511 284.841,267.821 271.964,250.096 259.086,232.372 238.25,225.602 217.414,218.832 "
+       id="polygon107"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="259.087,166.647 259.087,188.555 259.087,210.464 259.086,232.372 271.964,250.096 347.35,222.406 334.472,204.682 321.595,186.957 300.759,180.187 279.923,173.417 "
+       id="polygon108"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="321.594,121.232 321.594,143.141 321.595,165.049 321.595,186.957 334.472,204.682 409.858,176.991 396.98,159.266 384.103,141.542 363.267,134.772 342.431,128.002 "
+       id="polygon109"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="131.03,631.661 151.866,638.432 172.702,645.202 193.538,638.432 190.498,558.179 169.662,564.949 148.826,571.719 135.949,589.443 123.071,607.167 110.194,624.891 "
+       id="polygon110"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="86.318,551.409 107.154,558.179 127.99,564.949 148.826,571.719 169.662,564.949 166.622,484.696 145.786,491.466 124.95,498.236 112.073,515.96 99.195,533.684 "
+       id="polygon111"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="892.846,411.212 872.01,417.983 851.174,424.753 838.296,442.477 825.419,460.201 812.542,477.925 833.378,484.696 854.214,491.466 875.05,498.236 895.886,491.466 "
+       id="polygon112"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="461.367,97.725 461.367,119.634 461.367,141.542 474.245,159.266 487.122,176.991 500,194.715 512.877,176.991 525.755,159.266 538.632,141.542 538.632,119.634 "
+       id="polygon113"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="538.632,97.725 538.632,119.634 538.632,141.542 551.51,159.266 564.387,176.991 577.265,194.715 590.142,176.991 603.019,159.266 615.897,141.542 615.897,119.634 "
+       id="polygon114"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="766.668,799.548 753.791,781.824 740.913,764.1 720.077,757.33 699.241,750.56 678.405,743.789 678.405,765.698 678.405,787.606 678.405,809.515 691.283,827.239 "
+       id="polygon115"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="358.348,890.378 371.226,872.654 384.103,854.93 384.103,833.021 384.103,811.113 384.103,789.204 363.267,795.974 342.431,802.744 321.595,809.515 308.718,827.239 "
+       id="polygon116"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="900.805,533.684 887.927,515.96 875.05,498.236 854.214,491.466 809.502,558.179 830.338,564.949 851.174,571.719 872.01,564.948 892.846,558.178 913.682,551.408 "
+       id="polygon117"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="384.103,97.725 384.103,119.634 384.103,141.542 396.98,159.266 409.858,176.991 422.735,194.715 435.613,176.991 448.49,159.266 461.367,141.542 461.367,119.634 "
+       id="polygon118"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="83.278,484.696 104.114,491.466 124.95,498.236 145.786,491.466 166.622,484.696 187.458,477.926 174.581,460.201 161.704,442.477 148.826,424.753 127.99,417.983 "
+       id="polygon119"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+    <polygon
+       fill-rule="evenodd"
+       points="704.16,844.963 691.283,827.239 678.405,809.515 657.569,802.744 636.733,795.974 615.897,789.204 615.897,811.113 615.897,833.021 615.897,854.929 628.774,872.654 "
+       id="polygon120"
+       style="stroke-width:6.92560081;stroke-dasharray:none" />
+  </g>
+</svg>
