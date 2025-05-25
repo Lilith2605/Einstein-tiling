@@ -1050,8 +1050,8 @@ function setup(){
           zeichneF(plus([posx+20*a,posy+6*a],phiP(0,3)), 5, 2, [0,255,200,200,255,180,180,180,255,4*s/20]);
           
           drawArrow([posx+20*a,posy+6*a], plus([posx+20*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,141,199,62]);
-          drawArrow([posx+20*a,posy+6*a], plus([posx+20*a,posy+6*a],rot(rhoP(1,2),1)),[7*s/20,10*s/20,255,0,0]);
-          drawArrow(plus([posx+20*a,posy+6*a],rot(rhoP(1,2),1)), plus([posx+20*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,0,0,255]);
+          drawArrow([posx+20*a,posy+6*a], plus([posx+20*a,posy+6*a],rot(rhoP(1,2),1)),[7*s/20,10*s/20,0,0,255]);
+          drawArrow(plus([posx+20*a,posy+6*a],rot(rhoP(1,2),1)), plus([posx+20*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,255,0,0]);
           //drawArrow(plus([posx+20*a,posy+6*a],etaP(0,3)),plus(plus([posx+20*a,posy+6*a],etaP(0,3)),rot(sigmaH(0,2),3)),[4*s/20,10*s/20,0,0,0]);
           //drawArrow(plus(plus([posx+20*a,posy+6*a],etaP(0,3)),rot(sigmaH(0,2),3)),plus([posx+20*a,posy+6*a],phiP(0,3)),[4*s/20,10*s/20,0,0,0]);
           //drawArrow(plus([posx+20*a,posy+6*a],phiP(0,3)),plus(plus([posx+20*a,posy+6*a],phiP(0,3)),rot(tauF(1,2),5)),[4*s/20,10*s/20,0,0,0]);
@@ -1061,8 +1061,8 @@ function setup(){
           zeichneF(plus([posx+0*a,posy+6*a],phiP(0,3)), 5, 2, [1,255,200,200,255,5*s/20,9*s/20]);
 
           drawArrow([posx+0*a,posy+6*a], plus([posx+0*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,141,199,62]);
-          drawArrow([posx+0*a,posy+6*a], plus([posx+0*a,posy+6*a],rot(rhoP(1,2),1)),[7*s/20,10*s/20,255,0,0]);
-          drawArrow(plus([posx+0*a,posy+6*a],rot(rhoP(1,2),1)), plus([posx+0*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,0,0,255]);
+          drawArrow([posx+0*a,posy+6*a], plus([posx+0*a,posy+6*a],rot(rhoP(1,2),1)),[7*s/20,10*s/20,0,0,255]);
+          drawArrow(plus([posx+0*a,posy+6*a],rot(rhoP(1,2),1)), plus([posx+0*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,255,0,0]);
           //drawArrow(plus([posx+0*a,posy+6*a],etaP(0,3)),plus(plus([posx+0*a,posy+6*a],etaP(0,3)),rot(sigmaH(0,2),3)),[4*s/20,10*s/20,0,0,0]);
           //drawArrow(plus(plus([posx+0*a,posy+6*a],etaP(0,3)),rot(sigmaH(0,2),3)),plus([posx+0*a,posy+6*a],phiP(0,3)),[4*s/20,10*s/20,0,0,0]);
           //drawArrow(plus([posx+0*a,posy+6*a],phiP(0,3)),plus(plus([posx+0*a,posy+6*a],phiP(0,3)),rot(tauF(1,2),5)),[4*s/20,10*s/20,0,0,0]);
@@ -1072,8 +1072,8 @@ function setup(){
           zeichneF(plus([posx-20*a,posy+6*a],phiP(0,3)), 5, 2, [2,255,200,200,255,6*s/20,12*s/20]);
 
           drawArrow([posx-20*a,posy+6*a], plus([posx-20*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,141,199,62]);
-          drawArrow([posx-20*a,posy+6*a], plus([posx-20*a,posy+6*a],rot(rhoP(1,2),1)),[7*s/20,10*s/20,255,0,0]);
-          drawArrow(plus([posx-20*a,posy+6*a],rot(rhoP(1,2),1)), plus([posx-20*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,0,0,255]);
+          drawArrow([posx-20*a,posy+6*a], plus([posx-20*a,posy+6*a],rot(rhoP(1,2),1)),[7*s/20,10*s/20,0,0,255]);
+          drawArrow(plus([posx-20*a,posy+6*a],rot(rhoP(1,2),1)), plus([posx-20*a,posy+6*a],etaP(0,3)),[7*s/20,10*s/20,255,0,0]);
           //drawArrow(plus([posx-20*a,posy+6*a],etaP(0,3)),plus(plus([posx-20*a,posy+6*a],phiP(0,3)),rot(lambdaF(2),5)),[4*s/20,10*s/20,0,0,0]);
           //drawArrow(plus(plus([posx-20*a,posy+6*a],phiP(0,3)),rot(lambdaF(2),5)),plus([posx-20*a,posy+6*a],phiP(0,3)),[4*s/20,10*s/20,0,0,0]);
           //drawArrow(plus([posx-20*a,posy+6*a],phiP(0,3)),plus(plus([posx-20*a,posy+6*a],phiP(0,3)),rot(tauF(1,2),5)),[4*s/20,10*s/20,0,0,0]);
