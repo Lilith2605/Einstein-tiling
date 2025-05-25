@@ -108,7 +108,7 @@ function setup(){
           rect(posx-46*s, -posy+16.5*s,78*s,4.5*s);
           textSize(6.5*s);
           fill(0);
-          text('Einstein tiling eine neue', posx-45*s, -posy-19*s);
+          text('Einstein tiling – eine neue', posx-45*s, -posy-19*s);
           text('Entdeckung in der Mathematik', posx-45*s, -posy-10*s);
           textSize(3.5*s);
           text('Facharbeit in Mathematik von Lilith Schröter, 10c', posx-45*s, -posy+20*s);
