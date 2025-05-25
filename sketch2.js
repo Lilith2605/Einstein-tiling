@@ -1079,7 +1079,7 @@ function setup(){
           //drawArrow(plus([posx-20*a,posy+6*a],phiP(0,3)),plus(plus([posx-20*a,posy+6*a],phiP(0,3)),rot(tauF(1,2),5)),[4*s/20,10*s/20,0,0,0]);
           tex1.style('font-size', ''+(2*s)+'px');
           tex1.position((posx-10*a)+((wo-w)/2), (-2*posy-3*a)+((ho-h)/2));
-          katex.render('\\textcolor{limegreen}{\\eta_0^{P,s}}=\\textcolor{blue}{R\\sigma_1^{P,s-1}}-\\textcolor{red}{R\\varrho_0^{H,s-1}}', tex1.elt);
+          katex.render('\\textcolor{limegreen}{\\eta_0^{P,s}}=\\textcolor{red}{R\\sigma_1^{P,s-1}}-\\textcolor{blue}{R\\varrho_0^{H,s-1}}', tex1.elt);
         }
         break;
       case 24:
